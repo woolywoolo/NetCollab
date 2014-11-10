@@ -1,0 +1,5 @@
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\NetCollab\SimpleChatServer\bin\Debug\SimpleChatServer.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\NetCollab\SimpleChatServer\bin\Debug\SimpleChatServer.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\NetCollab\SimpleChatServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\NetCollab\SimpleChatServer\obj\Debug\SimpleChatServer.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\NetCollab\SimpleChatServer\obj\Debug\SimpleChatServer.pdb
